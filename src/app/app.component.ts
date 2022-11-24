@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'sales-admin-project';
+  firstName = 'Brian';
+  lastName = 'Okello';
+
 }
