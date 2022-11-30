@@ -12,9 +12,9 @@ export class SalesPersonListComponent implements OnInit {
 
   salesPersonList: SalesPerson[] = [
 
-    new SalesPerson("Anup","Kumar","anup.kumar@gmail.com",25000),
-    new SalesPerson("john","Doe","john@gmail.com",25000),
-    new SalesPerson("Claire","Murphy","Claire@gmail.com",25000),
+    new SalesPerson("Anup","Kumar","anup.kumar@gmail.com",5000),
+    new SalesPerson("john","Doe","john@gmail.com",7500),
+    new SalesPerson("Claire","Murphy","Claire@gmail.com",200),
     new SalesPerson("May","Truong","May@gmail.com",25000)
   ] 
 
